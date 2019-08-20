@@ -24,12 +24,12 @@
 	width:35%;
 	float: left;
 	background-color: white;
-	margin: 3vw 2vw 2vw 4vw;
-	padding: 3vw 1vw 1vw 3vw;
+	margin: 2vw 2vw 0vw 4vw;
+	padding: 2vw 1vw 1vw 3vw;
 	}
 @media only screen and (max-width: 768px) {.wiki-sidebar {
 	width:100%;
-	margin: 3vw 0vw 2vw 0vw;
+	margin: 2vw 0vw 2vw 0vw;
 	padding: 3vw 2vw 1vw 4vw;
 }}
 
@@ -51,11 +51,12 @@ sup {
 }
 
 #wiki-cont {
-	padding: 2vh 0vh 1vh 0vh;
+	padding: 0vh 5vw 3vh 0vw;
+
 }
 
-.wiki-container {
-	padding: 0% 5% 5vh 5%;
+#wiki-cont2 {
+	padding: 0vh 5vw 3vh 0vw;
 }
 
 .footpad {
@@ -65,3 +66,7 @@ sup {
 
   }
 
+.section-heading-lower {
+	padding: 3vh 0 0 0;
+	line-height: 2;
+}
