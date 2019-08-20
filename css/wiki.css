@@ -7,8 +7,9 @@
 	padding: 1vw 3vw 1vw 1vw;
 }
 @media only screen and (max-width: 768px) {.wiki-sidebar-right {
-	width:80%;	
+	width:80vw;	
 	margin: 10vw 10vw 2vw 10vw;
+	padding: 1vw 1vw 1vw 1vw;
 
 }}
 
@@ -28,6 +29,8 @@
 	}
 @media only screen and (max-width: 768px) {.wiki-sidebar {
 	width:100%;
+	margin: 3vw 0vw 2vw 0vw;
+	padding: 3vw 2vw 1vw 4vw;
 }}
 
 #wiki-table{
@@ -45,10 +48,6 @@ sup {
 
 .in-block {
 	padding-top: 5vh;
-}
-
-img { 
-	width: 30%;
 }
 
 #wiki-cont {
