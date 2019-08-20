@@ -59,10 +59,15 @@ sup {
 	padding: 0vh 5vw 3vh 5vw;
 }
 
-.footpad {
-     margin: -3vh 0 0 0 !important;
-     font-size: .9em;
-     background-color: rgba(47, 23, 15, 0.9);
+footer{
+	height: 9vh;
+  background-color: rgba(47, 23, 15, 0.9);
+
+}
+
+#footpad {
+     padding: 3vh 0 0 0 !important;
+     font-size: .8em;
 
   }
 
