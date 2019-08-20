@@ -1,3 +1,31 @@
+
+.wiki-sidebar-right {
+	float:right;
+	width:30%;
+	background-color: white;
+	margin-top: 10vw;
+}
+
+#wiki-contents {
+	background-color: white;
+	padding: 1vw;
+}
+
+.wiki-sidebar {
+	width:35%;
+	float: left;
+	background-color: white;
+	margin: 3vw 2vw 2vw 2vw;
+	padding: 3vw 1vw 1vw 1vw;
+
+	}
+
+#wiki-table{
+		padding-left: 2vw;
+
+}
+
+
 sup {
 	display: none;
 }
@@ -5,15 +33,3 @@ sup {
 #wiki-refs {
 	display: none;
 }
-
-.wiki-sidebar {
-	width:30%;
-	margin-left: 2vw;
-	background-color: white;
-}
-
-#wiki-table{
-		padding-left: 2vw;
-
-}
-
