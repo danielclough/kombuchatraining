@@ -61,7 +61,7 @@ sup {
 
 footer{
 	height: 9vh;
-  background-color: rgba(47, 23, 15, 0.9);
+  background-color: rgba(47, 23, 15, 0.9) !important;
 
 }
 
