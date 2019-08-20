@@ -1,0 +1,19 @@
+sup {
+	display: none;
+}
+
+#wiki-refs {
+	display: none;
+}
+
+.wiki-sidebar {
+	width:30%;
+	margin-left: 2vw;
+	background-color: white;
+}
+
+#wiki-table{
+		padding-left: 2vw;
+
+}
+
