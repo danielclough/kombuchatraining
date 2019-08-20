@@ -13,7 +13,12 @@
 
 }}
 
-
+.not-active a {
+	pointer-events: none;
+  cursor: default;
+  text-decoration: none;
+  color: black;
+}
 
 #wiki-contents {
 	background-color: white;
